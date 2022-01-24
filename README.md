@@ -1,13 +1,11 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://github.com/PedroMagaieski"><i>Pedro Magaieski</i></a> 🕹️ </h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://github.com/PedroMagaieski"><i>Pedro Magaieski</i></a></h1>
 </div>
 
 <div align="center">
   <a href="https://github.com/PedroMagaieski">
-    <!--
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
-   -->
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroMagaieski&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMagaieski&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
