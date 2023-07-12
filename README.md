@@ -1,5 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://github.com/PedroMagaieski"><i>Pedro Magaieski</i></a></h1>
+   <h1 align="center">Hi, I am <a href="https://github.com/PedroMagaieski"><i>Pedro Magaieski</i></a></h1>
 </div>
 
 <div align="center">
