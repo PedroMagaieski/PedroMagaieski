@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/PedroMagaieski">
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroMagaieski&count_private=true&include_all_commits=false&show_icons=true&theme=cobalt&hide_border=false&show_owner=true&hide_rank=true&locale=pt-br" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMagaieski&theme=cobalt&hide_border=false&&layout=donut&locale=pt-br""/>
+     <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=PedroMagaieski&count_private=true&include_all_commits=false&show_icons=true&theme=cobalt&hide_border=false&show_owner=true&rank_icon=github&locale=pt-br" />
+    <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMagaieski&theme=cobalt&hide_border=false&&layout=compact&locale=pt-br&exclude_repo=github-readme,projetos_python,Site_Node_Mysql""/>
   </a>
 </div>
 
