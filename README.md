@@ -52,6 +52,7 @@
   <img align="center" alt="Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg">
   <img align="center" alt="Vim" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg">
   <img align="center" alt="Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+  <img align="center" alt="6502 NES" height="30" width="40" src="https://icongr.am/entypo/game-controller.svg?size=128&color=808080">
 </div><br>
 
 <div align="center">
